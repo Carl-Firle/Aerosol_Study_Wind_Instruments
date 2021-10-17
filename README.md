@@ -6,6 +6,9 @@ C. Firle*, A. Steinmetz*, O. Stier*, ...
 Correspondence: c.firle@gmx.eu
 
 
+<b>Vorlage https://github.com/skissler/CtTrajectories_B117 </b>
+
+
 All code is available under the GNU General Public License, version 3, included in this repository under the following terms:
 
 This program is free software: you can redistribute it and/or modify
