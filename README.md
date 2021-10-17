@@ -1,7 +1,7 @@
 # Data, figures and code concerning "Aerosol emission rates playing wind instruments – implementation within the assessment of Covid-19 infection risk"
-C. Firle*, A. Steinmetz*, O. Stier*, ...
+C. Firle<code>*</code>, A. Steinmetz<code>*</code>, O. Stier<code>*</code>, ...
 
-*denotes equal contribution
+<code>*</code>denotes equal contribution
 
 Correspondence: c.firle@gmx.eu
 
