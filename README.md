@@ -14,8 +14,8 @@ dir fig -> dir particle-counts ->...\Ergebnisse\Einzel-Counts _cnts.tif (image s
 dir data -> C:\Users\Carl\OneDrive\Studie Aerosolmessung _ 2020\Datenerhebung und Auswertung\Ergebnisse\EmissionRates _all
 
 dir fig ->  CorrPlots, Histograms, TAskPlots...
-dir fig -> Qubus 3 D
-
+dir fig -> Qubus 3 D.stl
+dir data -> Qubus.cdf  (https://www.wolfram.com/cdf-player/index.html / https://www.wolfram.com/player/)
 
 {
  {"Atmen", "Breathing"},
