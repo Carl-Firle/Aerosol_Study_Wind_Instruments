@@ -17,6 +17,8 @@ dir fig ->  CorrPlots, Histograms, TAskPlots...
 dir fig -> Qubus 3 D.stl
 dir data -> Qubus.cdf  (https://www.wolfram.com/cdf-player/index.html / https://www.wolfram.com/player/)
 
+dir risk_assessment -> figures
+
 {
  {"Atmen", "Breathing"},
  {"Aufgabe", "Task"},
