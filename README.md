@@ -1,10 +1,11 @@
 # Data and figures concerning "Aerosol emission rates playing wind instruments – implementation within the assessment of Covid-19 infection risk"
-C. Firle<code>* </code>, A. Steinmetz<code>* </code>, O. Stier<code>* </code>, ...
+C. Firle`*`, A. Steinmetz`*`, O. Stier`*`, ...
 
-<code>*</code>denotes equal contribution
+`*`denotes equal contribution
 
 Correspondence: c.firle@gmx.eu
 
+https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code
 
 <b>Vorlage https://github.com/skissler/CtTrajectories_B117 </b>
 
