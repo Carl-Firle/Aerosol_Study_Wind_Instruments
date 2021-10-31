@@ -10,12 +10,15 @@ https://docs.github.com/en/github/writing-on-github/getting-started-with-writing
 <b>Vorlage https://github.com/skissler/CtTrajectories_B117 </b>
 
 dir data -> dir particle-counts ->...\Ergebnisse\Einzel-Counts _cnts.xlsx (englische Übersetzung)
+
 dir fig -> dir particle-counts ->...\Ergebnisse\Einzel-Counts _cnts.tif (image stacks: Page 1 Beschreibung und Übersetzung Vgl. Folie Übersetzung durch Oliver = data-processing illustrated)
 
 dir data -> C:\Users\Carl\OneDrive\Studie Aerosolmessung _ 2020\Datenerhebung und Auswertung\Ergebnisse\EmissionRates _all
 
 dir fig ->  CorrPlots, Histograms, TAskPlots...
+
 dir fig -> Qubus 3 D.stl
+
 dir data -> Qubus.cdf  (https://www.wolfram.com/cdf-player/index.html / https://www.wolfram.com/player/)
 
 dir risk_assessment -> figures
