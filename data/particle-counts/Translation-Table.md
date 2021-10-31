@@ -11,7 +11,7 @@
  | Sprechen | Speaking | 
  | Sprechen mit MNS | Speaking With Surgical Mask | 
  | Wasseremission (mg/s) | Water emission (mg/s) | 
- | Kl | C | 
- | Tr | T | 
- | Ob | O | 
- | Qu | F | 
+ | Kl Klarinette | C Clarinet | 
+ | Tr Trompete | T Trumpet | 
+ | Ob Oboe| O Oboe | 
+ | Qu Querflöte | F Flute | 
