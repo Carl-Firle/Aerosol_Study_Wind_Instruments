@@ -9,6 +9,8 @@ https://docs.github.com/en/github/writing-on-github/getting-started-with-writing
 
 <b>Vorlage https://github.com/skissler/CtTrajectories_B117 </b>
 
+https://guides.github.com/activities/citable-code/
+
 dir data -> dir particle-counts ->...\Ergebnisse\Einzel-Counts _cnts.xlsx (englische Übersetzung)
 
 dir fig -> dir particle-counts ->...\Ergebnisse\Einzel-Counts _cnts.tif (image stacks: Page 1 Beschreibung und Übersetzung Vgl. Folie Übersetzung durch Oliver = data-processing illustrated)
