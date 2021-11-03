@@ -5,6 +5,11 @@ C. Firle`*`, A. Steinmetz`*`, O. Stier`*`, ...
 
 Correspondence: c.firle@gmx.eu
 
+
+Directory `data` contains `Particle Counts` of each proband during the different tasks and the calculated aerosol emission rates from all probands `EmissionRates_all`. `Description` of `Particle Counts` includes a translation table. `Description` of `data` includes the principles of aerosol emission rate calculations.
+
+
+
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code
 
 <b>Vorlage https://github.com/skissler/CtTrajectories_B117 </b>
