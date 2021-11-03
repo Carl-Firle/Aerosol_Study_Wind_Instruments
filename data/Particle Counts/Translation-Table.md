@@ -25,7 +25,7 @@
  | work_dom_1 | working domain | 
 
  Timeline
- `date format: year, month, day, hours (24), minutes, milliseconds`
+ `date format: year, month, day, hours (24), minutes, seconds`
  
  | German | English | 
  | --- | --- |  
