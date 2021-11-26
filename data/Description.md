@@ -1,4 +1,6 @@
 Directory `Particle Counts` contains all raw data from the measurements. We included a translation table.
+Row 8 lists aerosol spectrometers position (in cm) and particle size bin/category (Aerosol < 6.64 µm, Droplets > 6.64).
+Columns bellow particle size bin list
 
 The file `EmissionRates_wind instruments.xlsx` includes all emission rates with standard deviations.
 
