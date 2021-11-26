@@ -1,3 +1,8 @@
+Directory `Particle Counts` contains all raw data from the measurements. We included a translation table.
+
+The file `EmissionRates_wind instruments.xlsx` includes all emission rates with standard deviations.
+
+
 
 https://www.wolfram.com/cdf-player/index.html 
 
