@@ -22,7 +22,7 @@
  | annot | annotation | 
  | exper | years of experience | 
  | gradu | graduation | 
- | work_dom_1 | working domain | 
+ | work_dom | working domain | 
 
  Timeline
  `date format: year, month, day, hours (24), minutes, seconds`
