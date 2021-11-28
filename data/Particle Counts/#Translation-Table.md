@@ -1,3 +1,4 @@
+ # Translation Table
  | German | English | 
  | --- | --- | 
  | Atmen | Breathing | 
@@ -37,3 +38,6 @@
  | Tonaufnahme | audio recording  (start, stop) | 
  | Proband im Messbereich | proband entering/leaving measurement area | 
  | Messzeitraum | measurement periode | 
+ | vor | before | 
+ | Metadaten | meta data | 
+ | Summe | sum |  
