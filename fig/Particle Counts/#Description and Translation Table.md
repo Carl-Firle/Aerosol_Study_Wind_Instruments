@@ -1,4 +1,6 @@
 # Description of Image Stacks
+Slide 1 of the Image Stack in Tif-file shows complete measurement
+
 Tif 1-11
 
 
