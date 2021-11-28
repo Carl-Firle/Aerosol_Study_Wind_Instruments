@@ -19,7 +19,8 @@ ___
 Correspondence: c.firle@gmx.eu
 ___
 
-Directory `data` contains `Particle Counts` of each proband during the different tasks and the calculated aerosol emission rates from all probands `EmissionRates_all`. `Description` of `Particle Counts` includes a translation table. `Description` of `data` includes the principles of aerosol emission rate calculations.
+Directory `data` contains `Particle Counts` of each subject during the different tasks and the emission rates from all subjects `
+EmissionRates_wind instruments.xlsx`. `Description` of `data` includes the principles of aerosol emission rate calculations and a translation table.
 
 
 
