@@ -29,7 +29,7 @@ Directory `fig` contains different figures:
 - Plots for particle counts (time resolution and count event)
 - Task Plots for emission rates
 
-Directory `pic` contains further pictures of experimental setup.
+Directory `pic` contains further pictures of the experimental setup.
 
 Directory `Risk Assessment/fig` contains output plots from the three risk assessment situations with respect to Alpha and Delta SARS-CoV-2 variants.
 
