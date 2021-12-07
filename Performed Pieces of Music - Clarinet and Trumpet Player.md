@@ -1,4 +1,4 @@
-# Music performance clarinet and trumpet
+# Music performance: clarinet and trumpet
 The clarinet player played 20 min Mozart’s Clarinet Concerto in A major, K. 622.
 
 The trumpet player played 20 min:
