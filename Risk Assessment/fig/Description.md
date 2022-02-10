@@ -1,7 +1,6 @@
-# Risk Assessement Parameters in Three Typical Wind Instrument Playing Situations
+# Risk assessment parameters in three typical wind instrument playing situations
 
-The plots show CO<sub>2</sub> air concentration, particle emission rate, particle air concentration and transmission risk in timeline.
-The risk assessment includes Alpha and Delta variants.
+The plots show CO<sub>2</sub> air concentration, average particle emission rate, particle air concentration and transmission risk over time. The risk assessment distinguishes between the Alpha and Delta variants.
 
 
 
