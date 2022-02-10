@@ -1,5 +1,5 @@
-# Correlation Plot of Emission Rates and Height
+# Correlation plots of emission rates and body height
 
-The plots show the Emission rates of particles and water and the subject's height.
+The plots show the emission rates of particles and water vs. the individual's body height.
 
 
