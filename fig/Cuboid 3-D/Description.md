@@ -1,6 +1,6 @@
-# 3-D Figure of Cuboid
+# 3D-figure of probe cabin (measurement cabin)
 
-The file can be displayed with both of these freewares: 
+The file can be viewed with any of these freeware programs:
 
 https://www.wolfram.com/cdf-player/index.html 
 
