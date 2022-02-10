@@ -1,3 +1,2 @@
-# Correlation Plot of Emission Rates and Weight
-
-The plots show the Emission rates of particles and water and the subject's weight.
+# Correlation plots of emission rates and weight
+The plots show the emission rates of particles and water vs. the individual's body weight.
