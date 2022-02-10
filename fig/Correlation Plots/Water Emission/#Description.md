@@ -1,3 +1,3 @@
-# Correlation Plot of Water Emission Rates
+# Correlation plots of water emission rates
 
-Water emission rates (unit: mg/s) from different tasks. Regression lines have slopes reported in the right corner.
+Water emission rates (unit: mg/s) from different tasks. Regression lines have the slopes printed in the upper right corner.
