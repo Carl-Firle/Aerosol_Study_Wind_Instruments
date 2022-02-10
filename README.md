@@ -1,18 +1,17 @@
-# Data and figures concerning "Aerosol emission rates playing wind instruments – implementation within the assessment of Covid-19 infection risk"
+# Data and figures related to "Aerosol emission rates playing wind instruments – implementation within the assessment of Covid-19 infection risk"
 
-The file `Data processing illustrated.pdf` in main directory shows the principles of aerosol emission rate calculations.
+The file `Data processing illustrated.pdf` in the main directory explains the approach to aerosol emission rate calculations.
 
-Directory `data` contains `Particle Counts` of each proband during the different tasks and the emission rates from all subjects `
-EmissionRates_wind instruments.xlsx`.
+Directory `data` contains `Particle Counts` of each proband during the various tasks and the calculated emission rates (`EmissionRates_wind instruments.xlsx`).
 
 Directory `fig` contains different figures:
-- Correlation Plots for task, height, weight and emission rates 
-- 3-D figure of probe cabin
+- Correlation plots for tasks, body height and weight, and emission rates
+- 3D-figure of the probe cabin
 - Histograms for aerosol particle sizes from different tasks
-- Plots for particle counts (time resolution and count event)
-- Task Plots for emission rates
+- Plots of particle counts over time, differentiating the events
+- Emission rates for various tasks
 
-Directory `pic` contains further pictures of the experimental setup.
+Directory `pic` contains photographs of the experimental setup.
 
-Directory `Risk Assessment/fig` contains output plots from the three risk assessment situations with respect to Alpha and Delta SARS-CoV-2 variants.
+Directory `Risk Assessment/fig` contains plots of the three risk-assessment cases, divided by the Alpha and Delta variants of SARS-CoV-2.
 
