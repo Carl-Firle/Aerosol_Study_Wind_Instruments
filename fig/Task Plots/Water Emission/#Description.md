@@ -1,6 +1,7 @@
-# Water Emission Rates from all subjects in the groups
+# Water emission rates from all individuals in the groups
 
-The plots show the water emission rates from all subjects in the four groups for the different tasks. The point indicates the water emission rate value. The values correspond to the displayed subject's ID.
+The plots show the water emission rates of all individuals in the four groups for the different tasks. The point indicates the water emission rate value. The values are labelled by the individual's ID.
+
 
 # Translation Table
  | German | English | 
