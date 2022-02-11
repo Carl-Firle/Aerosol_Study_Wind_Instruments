@@ -1,6 +1,6 @@
-# Aerosol Emission Rates from all subjects in the groups
+# Aerosol emission rates of all individuals in the groups
 
-The plots show the aerosol emission rates from all subjects in the four groups for the different tasks. The point indicates the aerosol emission rate value, error bars indicate standard deviation. The values correspond to the displayed subject's ID.
+The plots show the aerosol emission rates of all individuals in the four groups for the different tasks. The point indicates the maximum likelihood estimation of the aerosol emission rate, error bars indicate the standard deviation according to bootstrap estimation. The values are labelled by the individual IDs.
 
 # Translation Table
  | German | English | 
