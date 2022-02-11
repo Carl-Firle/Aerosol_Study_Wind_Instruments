@@ -1,6 +1,6 @@
-# Aerosol Water Ratio from all subjects in the groups
+# Aerosol water ratio from all individuals in the groups
 
-The plots show the aerosol water ratio from all subjects in the four groups for the different tasks. The point indicates the aerosol water ratio value, error bars indicate standard deviation. The values correspond to the displayed subject's ID.
+The plots show the aerosol water ratio from all individuals in the four groups for the different tasks. The point indicates the aerosol water ratio, error bars indicate the standard deviation. The values are labelled by the individual's ID.
 
 # Translation Table
  | German | English | 
