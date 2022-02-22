@@ -2,17 +2,17 @@
 
 `*`contributed equally
 
-1	Department of Psychosomatic Medicine, Park-Klinik Sophie Charlotte, Berlin, Germany
+1	Department of Psychosomatic Medicine and Psychotherapy, Park-Klinik Sophie Charlotte, Berlin, Germany
 
-2	Department of Trauma, Reconstructive Surgery and Rehabilitation Medicine, Universitätsmedizin Greifswald, Greifswald, Germany
+2	Physical and Rehabilitation Medicine, Clinic of Trauma, Reconstructive Surgery and Rehabilitation Medicine, University Medicine Greifswald, Greifswald, Germany
 
 3	Siemens AG, Technology, 13623 Berlin, Germany
 
 4	Center for Clinical Research, BG Klinikum Unfallkrankenhaus Berlin gGmbH, Berlin, Germany
 
-5	Department of Trauma and Orthopaedic Surgery, BG Klinikum Unfallkrankenhaus Berlin gGmbH, Berlin, Germany
+5	Department of Trauma and Orthopaedic Surgery, BG Klinikum Unfallkrankenhaus Berlin gGmbH, Berlin, Germany 
 
-6	BG Kliniken–Klinikverbund der Gesetzlichen Unfallversicherung gGmbH, Berlin, Germany
+6	BG Kliniken – Hospital Group of the Statutory Accident Insurance, Berlin, Germany
 
 ___
 Correspondence: c.firle@gmx.eu
