@@ -1,4 +1,4 @@
-# Data and figures related to "Aerosol emission rates playing wind instruments – implementation within the assessment of Covid-19 infection risk"
+# Data and figures related to "Aerosol emission from playing wind instruments and related COVID-19 infection risk during music performance"
 
 The file `Data processing illustrated.pdf` in the main directory explains the approach to aerosol emission rate calculations.
 
